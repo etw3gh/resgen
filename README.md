@@ -6,7 +6,7 @@ Demo: [PDF of this file](https://github.com/openciti/resgen/blob/master/README.m
 
 A simple script that converts markdown to PDF
 
-[Inspiration](https://github.com/mszep/pandoc_resume
+[Inspiration](https://github.com/mszep/pandoc_resume)
 
 #### Requirements
 
