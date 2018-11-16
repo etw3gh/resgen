@@ -1,10 +1,12 @@
 ## Markdown to PDF Resume generator
 
+Demo: [PDF of this file](https://github.com/openciti/resgen/blob/master/README.md.pdf)
+
 ### About
 
 A simple script that converts markdown to PDF
 
-#### Inspiration
+o#### Inspiration
 
 [this repo](https://github.com/mszep/pandoc_resume
 
@@ -19,6 +21,3 @@ A simple script that converts markdown to PDF
 - first
 - second
 - third
-
-
-#### [PDF]()
